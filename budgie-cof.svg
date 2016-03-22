@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new -0.424 -0.244 758 171" height="90" width="90" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-0.424 -0.244 90 90" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Budgie CoF</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Budgie CoF</dc:title>
+    <dc:description>Ubuntu CoF overlaid on budgie-remix logo</dc:description>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Joshua &quot;Foggalong&quot; Fogg</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>HEXcube</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:source>Budgie logo by Yuri Henrique and Ubuntu CoF from Canonical</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cy="44.756" cx="44.576" r="45" fill="#404552"/>
+ <g opacity=".233" transform="matrix(.94375 0 0 .94375 -84.322 .70159)">
+  <g transform="matrix(.35156 0 0 .35156 91.581 1.6801)">
+   <path id="budgie" fill="#fff" d="m168 154c-14.784 0-27.327 10.913-31 25-1.1005 2.868-1.8854 4.0332-3 6-1.4507 2.5283-3.58 5.7384-7.5796 8.6305-3.5417 1.996-5.7642 2.5916-10.42 2.3695-3.2045-0.48252-3.9754-0.99933-6-2-3.139-2.5679-3.6167-3.4154-6-8 0.34022 4.8952 0.0467 6.3083 2 15 5.1954 16.95 23.426 31 45 31 15.992 0 30.554-6.7124 38.895-16.957 3.0503-3.7466 5.3472-6.7027 7.5789-11.87 2.0305-4.701 2.5248-10.791 2.5263-16.174 0.005-18.276-14.327-33-32-33z"/>
+   <use xlink:href="#budgie" transform="matrix(-.5 .86603 -.86603 -.5 302.85 81.149)" height="100%" width="100%" y="0" x="0"/>
+   <use xlink:href="#budgie" transform="matrix(-.5 -.86603 .86603 -.5 81.149 302.85)" height="100%" width="100%" y="0" x="0"/>
+  </g>
+ </g>
+ <g fill="#fff">
+  <path opacity=".757" d="m45 19a26 26 0 0 0 -11.209 2.586l4.008 6.941a18 18 0 0 1 7.201 -1.527 18 18 0 0 1 17.867 16h8.031a26 26 0 0 0 -7.816 -16.629 8 8 0 0 1 -7.082 -0.443 8 8 0 0 1 -3.93 -5.922 26 26 0 0 0 -7.07 -1.006zm-14.686 4.562a26 26 0 0 0 -10.498 15.063 8 8 0 0 1 3.184 6.375 8 8 0 0 1 -3.174 6.373 26 26 0 0 0 10.5 15.041l4.008-6.939a18 18 0 0 1 -7.334 -14.475 18 18 0 0 1 7.334 -14.475l-4.02-6.963zm32.565 23.438a18 18 0 0 1 -17.879 16 18 18 0 0 1 -7.207 -1.518l-4.004 6.936a26 26 0 0 0 11.211 2.582 26 26 0 0 0 7.074 -1.008 8 8 0 0 1 3.926 -5.92 8 8 0 0 1 7.092 -0.443 26 26 0 0 0 7.824 -16.629h-8.037z" transform="translate(-.424 -.244)"/>
+  <circle opacity=".757" cy="44.756" cx="14.576" r="6"/>
+  <circle opacity=".757" transform="rotate(120)" cy="-60.972" cx="-13.545" r="6"/>
+  <circle opacity=".757" transform="rotate(240)" cy="16.216" cx="-91.064" r="6"/>
+ </g>
+</svg>

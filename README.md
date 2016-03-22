@@ -1,4 +1,9 @@
-# Logo & Assets
-This repo is for storing logos and assets used by the Budgie Remix project.
+Logo & Assets
+=============
+Logos and assets used by the **budgie-remix** project.
 
-Assets is licensed under a [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
+### LICENSE
+Except where otherwise noted, all original content here are released under [Creative Commons Attribution-ShareAlike International License 4.0][CC-BY-SA4].
+
+
+[CC-BY-SA4]: https://creativecommons.org/licenses/by-sa/4.0/ "More info on CC BY-SA 4.0"
