@@ -19,6 +19,7 @@
      </cc:Agent>
     </dc:contributor>
     <dc:source>Budgie logo by Yuri Henrique and Ubuntu CoF from Canonical</dc:source>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
