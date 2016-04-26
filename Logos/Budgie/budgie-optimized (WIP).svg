@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="128"
+   width="128"
+   version="1.1"
+   viewBox="0 0 128 128"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="budgie-optimized.svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="721"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="1.936407"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4211"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <title
+     id="title4">Budgie Logo</title>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Budgie Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Yuri Henrique</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>HEXcube</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Official logo for the Budgie desktop environment</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Original"
+     transform="translate(0,-128)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g4167"
+       transform="matrix(0.65306122,0,0,0.65306122,4.8e-6,128)">
+      <path
+         id="path4"
+         d="M 0,0 93.92,0 C 71.53,1.01 49.52,9.77 32.84,24.79 13.17,42.06 1.21,67.54 0,93.65 L 0,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="path6"
+         d="m 93.92,0 9.22,0 c 21.8,1.34 43.19,9.8 59.54,24.36 20.04,17.37 32.25,43.22 33.32,69.69 l 0,9.09 c -1.34,21.76 -9.77,43.11 -24.29,59.45 -17.22,19.94 -42.81,32.09 -69.08,33.41 l -8.97,0 C 71.36,194.91 49.46,186.18 32.84,171.22 13.22,153.99 1.28,128.6 0,102.56 L 0,93.65 C 1.21,67.54 13.17,42.06 32.84,24.79 49.52,9.77 71.53,1.01 93.92,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#404552" />
+      <path
+         id="path8"
+         d="M 103.14,0 196,0 196,94.05 C 194.93,67.58 182.72,41.73 162.68,24.36 146.33,9.8 124.94,1.34 103.14,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="path10-9"
+         d="m 96.4,58.37 c 8.49,-6.14 19.56,-7.21 29.71,-6.26 10.78,1.21 21.73,5.38 29.01,13.71 4.94,5.42 7.49,12.55 8.49,19.72 0.36,2.7 0.71,5.41 0.88,8.13 0.88,14.31 -4.38,28.52 -13.08,39.75 -9.45,10.04 -22.02,16.97 -35.35,20.32 -19.49,4.86 -40.99,1.88 -58.08,-8.81 C 47.19,138.21 38.35,128.22 33.51,116.42 29.25,104.87 29.3,92.21 31.56,80.24 c 1.89,7.25 7.45,13.46 14.65,15.69 6.62,2.08 14.84,1.34 19.76,-3.99 C 77.13,81.67 83.84,67.19 96.4,58.37 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="path12-2"
+         d="m 129.68,76.5 c 1.84,-3.84 6.92,-3.99 9.98,-1.54 -0.63,0.19 -1.89,0.58 -2.52,0.78 0.05,0.75 0.13,2.26 0.18,3.01 1.36,0.14 2.7,-0.14 4,-0.54 -0.28,2.82 -1.34,6.06 -4.46,6.79 -4.88,1.89 -9.74,-3.99 -7.18,-8.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#404552" />
+      <path
+         id="path14"
+         d="m 163.61,85.54 c 3.13,1.08 6.28,2.1 9.42,3.13 -2.87,1.63 -5.73,3.27 -8.54,5 -0.17,-2.72 -0.52,-5.43 -0.88,-8.13 z"
+         inkscape:connector-curvature="0"
+         style="fill:#5294e2" />
+      <path
+         id="path16"
+         d="m 76.69,100.62 c 2.08,-3.7 6,-5.97 10.14,-6.55 7.64,-0.84 15.11,6.21 14.08,13.95 -1.34,4.89 -4.45,9.94 -9.64,11.31 -13.24,3.03 -26.35,-1.81 -38.99,-5.27 9.31,-1.31 19.36,-4.96 24.41,-13.44 z"
+         inkscape:connector-curvature="0"
+         style="fill:#5294e2" />
+      <path
+         id="path18"
+         d="m 0,102.56 c 1.28,26.04 13.22,51.43 32.84,68.66 16.62,14.96 38.52,23.69 60.82,24.78 L 0,196 0,102.56 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="path20"
+         d="M 171.71,162.59 C 186.23,146.25 194.66,124.9 196,103.14 l 0,92.86 -93.37,0 c 26.27,-1.32 51.86,-13.47 69.08,-33.41 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <circle
+         r="5.8909335"
+         cy="79.337494"
+         cx="135.23454"
+         id="path3362"
+         style="fill:#404552;fill-opacity:1;stroke:#404552;stroke-width:0.80000001;stroke-opacity:1" />
+      <ellipse
+         ry="1.6883672"
+         rx="1.725071"
+         cy="76.566368"
+         cx="138.44611"
+         id="path3370"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Optimized"
+     style="display:inline"
+     transform="translate(0,-128)">
+    <circle
+       style="fill:#404552"
+       cy="192"
+       cx="64"
+       id="circle8"
+       r="64" />
+    <path
+       style="fill:#5294e2"
+       d="m 115,186 -5.5,3.5 -0.5,-5.5 z"
+       id="path4216"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="display:inline;fill:#404552"
+       cy="52"
+       cx="88"
+       id="circle14"
+       r="5"
+       transform="translate(0,128)" />
+    <circle
+       style="display:inline;fill:#ffffff"
+       cy="50"
+       cx="90"
+       id="circle16"
+       r="2"
+       transform="translate(0,128)" />
+    <path
+       style="display:inline;fill:#5294e2;fill-opacity:1"
+       d="m 50,65 c 2,-3 5,-4 8,-4 4,0 8,3 8,9 0,5 -5,9 -11,9 -8,0 -12,-1 -22,-6 9,0 10,-1 12,-2 3,-2 3,-3 5,-6 z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccc"
+       transform="translate(0,128)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Working"
+     style="display:inline">
+    <path
+       transform="translate(0,-128)"
+       style="display:inline;fill:#ffffff"
+       d="M 62.955106,166.11918 C 69,162 73,161 80,161 c 15,0 28,13 28,28 0,10 -4,20 -10,27 -6,7 -20,15 -33,15 -11,0 -16,-1 -27,-8 -6.5,-4.5 -12,-11 -15,-18 -3,-8 -3,-17 -2,-25 2,6 5,8 9,10 5,2 11,1 15,-3 9,-9 10,-15 17.955106,-20.88082 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
