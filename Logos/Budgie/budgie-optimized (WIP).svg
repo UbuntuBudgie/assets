@@ -13,7 +13,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    inkscape:version="0.91 r"
-   sodipodi:docname="budgie-optimized.svg">
+   sodipodi:docname="budgie-optimized (WIP).svg">
   <defs
      id="defs20" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="721"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview18"
      showgrid="true"
      fit-margin-top="0"
@@ -35,13 +35,13 @@
      fit-margin-bottom="0"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="1.936407"
+     inkscape:zoom="1"
      inkscape:cx="64"
      inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer4">
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
     <inkscape:grid
        type="xygrid"
        id="grid4211"
@@ -80,7 +80,7 @@
      id="layer2"
      inkscape:label="Original"
      transform="translate(0,-128)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g4167"
@@ -150,7 +150,8 @@
      id="layer3"
      inkscape:label="Optimized"
      style="display:inline"
-     transform="translate(0,-128)">
+     transform="translate(0,-128)"
+     sodipodi:insensitive="true">
     <circle
        style="fill:#404552"
        cy="192"
@@ -158,10 +159,11 @@
        id="circle8"
        r="64" />
     <path
-       style="fill:#5294e2"
-       d="m 115,186 -5.5,3.5 -0.5,-5.5 z"
-       id="path4216"
-       inkscape:connector-curvature="0" />
+       style="display:inline;fill:#ffffff"
+       d="m 63,166 c 6.044894,-4.11918 10,-5 17,-5 15,0 28,13 28,28 0,10 -4,20 -10,27 -6,7 -20,15 -33,15 -11,0 -16,-1 -27,-8 -6.5,-4.5 -12,-11 -15,-18 -3,-8 -3,-17 -2,-25 2,6 5,8 9,10 5,2 11,1 15,-3 9,-9 10.044894,-15.11918 18,-21 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
     <circle
        style="display:inline;fill:#404552"
        cy="52"
@@ -183,18 +185,16 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssccc"
        transform="translate(0,128)" />
+    <path
+       style="display:inline;fill:#5294e2"
+       d="m 115,191 -6,3 c 0.47983,-3 0.47983,-3 0,-6 z"
+       id="path4216"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Working"
-     style="display:inline">
-    <path
-       transform="translate(0,-128)"
-       style="display:inline;fill:#ffffff"
-       d="M 62.955106,166.11918 C 69,162 73,161 80,161 c 15,0 28,13 28,28 0,10 -4,20 -10,27 -6,7 -20,15 -33,15 -11,0 -16,-1 -27,-8 -6.5,-4.5 -12,-11 -15,-18 -3,-8 -3,-17 -2,-25 2,6 5,8 9,10 5,2 11,1 15,-3 9,-9 10,-15 17.955106,-20.88082 z"
-       id="path10"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
-  </g>
+     style="display:none" />
 </svg>
