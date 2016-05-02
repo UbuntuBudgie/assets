@@ -10,3 +10,4 @@ Concept Plymouth splash screen designed by [HEXcube][hexcube]. Uses colors from 
 [horst3180]: https://horst3180.deviantart.com "horst3180's DeviantArt page"
 
 [arc-theme]: https://github.com/horst3180/arc-theme "Arc GTK theme's Github repo"
+
