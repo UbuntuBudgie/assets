@@ -9,14 +9,9 @@
     <dc:title>Budgie Logo</dc:title>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Yuri Henrique</dc:title>
+      <dc:title>Yuri Henrique and HEXcube</dc:title>
      </cc:Agent>
     </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>HEXcube</dc:title>
-     </cc:Agent>
-    </dc:contributor>
     <dc:description>Official logo for the Budgie desktop environment</dc:description>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
    </cc:Work>
