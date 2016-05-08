@@ -10,6 +10,7 @@ Budgie logos
 - `budgie-official.svg` - [Budgie's official logo][budgie-official] derived by [Ikey Doherty][ikeydoherty] from [Yuri Henrique][yurihenriq]'s Budgie logo
 - `budgie-symbolic.svg` - [view-grid-symbolic.svg.mono][budgie-symbolic] by [Yuri Henrique][yurihenriq]
 - `budgie-optimized.svg` - optimized by [HEXcube][hexcube] from [Yuri Henrique][yurihenriq]'s [budgie2.svg][budgie-original]
+- `budgie-reshaped.svg` - designed by [Alexandros "alpha" Felekidis][alpha], derived from [Yuri Henrique][yurihenriq]'s [budgie2.svg][budgie-original]
 
 Font
 ----
@@ -20,6 +21,7 @@ Font
 [foggalong]: https://github.com/Foggalong "Joshua Fogg's GitHub page"
 [yurihenriq]: https://yurihenriq.deviantart.com "Yuri Henrique's DeviantArt page"
 [ikeydoherty]: https://github.com/ikeydoherty "Ikey Doherty's DeviantArt page"
+[alpha]: https://github.com/alpha "Alexandros Felekidis' GitHub page"
 [canonical-website]: http://www.canonical.com "Canonical website"
 
 [budgie-original]: https://www.dropbox.com/sh/tbk1qozkzdh2642/AABKy_vIDPC4Oas_7sVKzYm7a/BudgieV3/budgie2.svg "Original Budgie logo on Yuri Henrique's Dropbox"
