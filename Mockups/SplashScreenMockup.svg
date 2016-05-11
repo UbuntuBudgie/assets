@@ -26,6 +26,6 @@
    <circle cx="880" cy="660" r="8"/>
   </g>
  </g>
- <circle cy="660" cx="1e3" r="8" fill="#4dadd4"/>
- <circle cx="1040" cy="660" r="8" fill="#4dadd4"/>
+ <circle cy="660" cx="1e3" r="8" fill="#5c616c"/>
+ <circle cx="1040" cy="660" r="8" fill="#5c616c"/>
 </svg>
