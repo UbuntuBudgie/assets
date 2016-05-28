@@ -18,17 +18,17 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     inkscape:current-layer="layer5"
-     inkscape:window-maximized="0"
-     inkscape:window-y="133"
-     inkscape:window-x="340"
-     inkscape:cy="113.72085"
+     inkscape:current-layer="layer10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:cy="64"
      inkscape:cx="64"
-     inkscape:zoom="3.872814"
-     showgrid="false"
+     inkscape:zoom="4.7578125"
+     showgrid="true"
      id="namedview52"
-     inkscape:window-height="371"
-     inkscape:window-width="721"
+     inkscape:window-height="744"
+     inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -36,7 +36,9 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid7418" />
@@ -45,26 +47,29 @@
      id="defs4266" />
   <metadata
      id="metadata4269">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Budgie Logo</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Yuri Henrique and HEXcube</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Alexandros &quot;Alpha&quot; Felekidis and Joshua &quot;Foggalong&quot; Fogg</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-    <dc:description>Official logo for the Budgie desktop environment</dc:description>
-    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Budgie Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Yuri Henrique and HEXcube</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Alexandros &quot;Alpha&quot; Felekidis and Joshua &quot;Foggalong&quot; Fogg</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Official logo for the Budgie desktop environment</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -144,8 +149,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Proposed"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="layer2">
@@ -240,7 +245,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c83792;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path5190-2"
@@ -264,11 +270,6 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 78.342633,38.105 A 29.090913,29.090913 0 0 0 50.503973,59.66522 14.54546,14.54546 0 0 1 32.689204,69.95045 14.54546,14.54546 0 0 1 22.143746,53.34363 a 43.63638,43.63638 0 0 0 31.11591,52.23636 43.63638,43.63638 0 0 0 52.551134,-28.0852 43.63638,43.63638 0 0 0 0,-10e-4 29.090913,29.090913 0 0 0 0.89321,-2.76934 29.090913,29.090913 0 0 0 -20.570477,-35.62954 29.090913,29.090913 0 0 0 -7.79089,-0.98977 z M 50.041474,61.67204 a 29.090913,29.090913 0 0 0 -0.522729,5.66591 29.09092,29.09092 0 0 1 0.522729,-5.66591 z m 55.622756,16.15685 a 29.09092,29.09092 0 0 1 -2.44096,4.8625 29.090913,29.090913 0 0 0 2.44096,-4.8625 z m -47.139793,10.4159 a 29.090913,29.090913 0 0 0 9.78182,6.1579 29.09092,29.09092 0 0 1 -9.78182,-6.1579 z m 28.923886,6.6636 a 29.09092,29.09092 0 0 1 -8.40228,1.3659 29.090913,29.090913 0 0 0 8.40228,-1.3659 z m -16.37388,0.3864 a 29.090913,29.090913 0 0 0 4.88407,0.8704 29.09092,29.09092 0 0 1 -4.88407,-0.8704 z"
        id="path4827-2-1" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 107.06833,60.50909 a 6.9818198,6.9818198 0 0 0 -0.12497,0.005 29.090922,29.090922 0 0 1 0.74205,7.175 9.3090919,9.3090919 0 0 1 5.96248,-2.51023 6.9818198,6.9818198 0 0 0 -6.57956,-4.66943 z"
-       id="path5524-59-2" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.16363657;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4827-8-6"
@@ -306,7 +307,7 @@
        d="m 59.485391,64.94546 a 8.7272735,8.7272735 0 0 0 -7.650009,4.31137 23.272734,23.272734 0 0 1 -14.832949,9.08526 64.000015,64.000015 0 0 0 21.21705,3.9772 8.7272735,8.7272735 0 0 0 9.504543,-6.1841 8.7272735,8.7272735 0 0 0 -5.909092,-10.83632 8.7272735,8.7272735 0 0 0 -2.329543,-0.35341 z m -8.707964,7.14886 a 8.7272735,8.7272735 0 0 0 -0.02385,0.14318 8.7272747,8.7272747 0 0 1 0.02385,-0.14318 z m -0.1125,0.84205 a 8.7272735,8.7272735 0 0 0 -0.01362,0.20114 8.7272747,8.7272747 0 0 1 0.01362,-0.20114 z m -0.03183,0.84886 a 8.7272735,8.7272735 0 0 0 0.0091,0.25568 8.7272747,8.7272747 0 0 1 -0.0091,-0.25568 z m 0.05341,0.85568 a 8.7272735,8.7272735 0 0 0 0.0398,0.29659 8.7272747,8.7272747 0 0 1 -0.0398,-0.29659 z m 0.134092,0.83636 a 8.7272735,8.7272735 0 0 0 0.08637,0.35912 8.7272747,8.7272747 0 0 1 -0.08637,-0.35912 z m 0.214772,0.81702 a 8.7272735,8.7272735 0 0 0 0.168181,0.4852 8.7272747,8.7272747 0 0 1 -0.123864,-0.3249 8.7272747,8.7272747 0 0 1 -0.04433,-0.1603 z m 0.357952,0.9353 a 8.7272735,8.7272735 0 0 0 0.150005,0.3238 8.7272747,8.7272747 0 0 1 -0.150005,-0.3238 z m 0.410229,0.8022 a 8.7272735,8.7272735 0 0 0 0.159092,0.2693 8.7272747,8.7272747 0 0 1 -0.159092,-0.2693 z m 0.482956,0.7455 a 8.7272735,8.7272735 0 0 0 0.16932,0.2295 8.7272747,8.7272747 0 0 1 -0.16932,-0.2295 z m 0.576134,0.7148 a 8.7272735,8.7272735 0 0 0 0.14091,0.1556 8.7272747,8.7272747 0 0 1 -0.14091,-0.1556 z m 0.635229,0.6375 a 8.7272735,8.7272735 0 0 0 0.122729,0.1125 8.7272747,8.7272747 0 0 1 -0.122729,-0.1125 z m 0.68409,0.5602 a 8.7272735,8.7272735 0 0 0 0.120454,0.089 8.7272747,8.7272747 0 0 1 -0.120454,-0.089 z m 0.746595,0.492 a 8.7272735,8.7272735 0 0 0 0.09545,0.058 8.7272747,8.7272747 0 0 1 -0.09545,-0.058 z m 0.796591,0.4159 a 8.7272735,8.7272735 0 0 0 0.06477,0.029 8.7272747,8.7272747 0 0 1 -0.06477,-0.029 z"
        id="path5190-1-9" />
     <ellipse
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff00ff;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5294e2;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path5237-8-3"
        cx="59.394875"
        cy="20.966345"
@@ -314,7 +315,7 @@
        rx="63.499283"
        ry="63.499287" />
     <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.16363645;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.16363645;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path5190-3"
        cx="33.585312"
        cy="88.32341"
@@ -333,20 +334,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Eye&amp;Beak"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.16363668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path5524-5"
-       cx="107.06831"
-       cy="67.490807"
-       r="6.9818187" />
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.16363668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path5541-2"
-       cx="114.05014"
-       cy="74.472618"
-       r="9.3090897" />
+     style="display:inline">
     <circle
        id="circle4179-6"
        r="4.9999995"
@@ -359,5 +347,10 @@
        cy="54.999874"
        style="display:inline;opacity:1;fill:#ffffff"
        r="1.9999998" />
+    <path
+       style="display:inline;fill:#5294e2"
+       d="m 115,64 -6,3 c 0.3,-2 0.3,-4 0,-6 z"
+       id="path4185-1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
