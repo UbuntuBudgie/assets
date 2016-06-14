@@ -14,7 +14,7 @@ Budgie logos
 
 Font
 ----
-[Ubuntu Fonts][ubuntu-fonts], © [Canonical Ltd.][canonical-website] licensed under [Ubuntu Font License v1.0][UFL]
+The wordmark uses [Ubuntu Fonts][ubuntu-fonts] by © [Canonical Ltd.][canonical-website] licensed under [Ubuntu Font License v1.0][UFL]
 
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
