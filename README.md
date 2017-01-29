@@ -1,6 +1,6 @@
 Logo & Art Assets
 =================
-Logos and art assets used by **budgie-remix** project
+Logos and art assets used by **Ubuntu Budgie** project
 
 ### LICENSE
 Except where otherwise noted, all original content here are released under [Creative Commons Attribution-ShareAlike International License 4.0][CC-BY-SA4]

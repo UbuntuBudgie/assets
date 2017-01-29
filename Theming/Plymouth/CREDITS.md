@@ -1,10 +1,10 @@
 Plymouth Splash Screen
 ======================
-Source for assets used in budgie-remix Plymouth Splash Screen
+Source for assets used in Ubuntu Budgie Plymouth Splash Screen
 
-budgie-remix Logo
+Ubuntu Budgie Logo
 -----------------
-budgie-remix logo designed by [HEXcube][hexcube] and [Joshua "Foggalong" Fogg][foggalong] are derived from [Yuri Henrique][yurihenriq]'s [Budgie logo][budgie-original] licensed under [CC BY-SA 4.0][CC-BY-SA4]
+Ubuntu Budgie logo designed by [HEXcube][hexcube] and [Joshua "Foggalong" Fogg][foggalong] are derived from [Yuri Henrique][yurihenriq]'s [Budgie logo][budgie-original] licensed under [CC BY-SA 4.0][CC-BY-SA4]
 
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
