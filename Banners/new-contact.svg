@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.0 r15299"
    sodipodi:docname="new-contact.svg"
-   inkscape:export-filename="/home/rania/Gambar/budgie-project/new-contact.png"
+   inkscape:export-filename="/home/rania/git/assets/Banners/new-contact-II.png"
    inkscape:export-xdpi="299.97397"
    inkscape:export-ydpi="299.97397">
   <defs
@@ -92,6 +92,19 @@
          stdDeviation="4.3053216"
          id="feGaussianBlur1227" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter935"
+       x="-0.093501615"
+       width="1.1870032"
+       y="-1.2511724"
+       height="3.5023447">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4379981"
+         id="feGaussianBlur937" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -100,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52301043"
-     inkscape:cx="441.95906"
-     inkscape:cy="236.51353"
+     inkscape:zoom="0.55263407"
+     inkscape:cx="238.33584"
+     inkscape:cy="193.1269"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -278,17 +291,6 @@
       </g>
     </g>
     <text
-       id="text40"
-       y="176.17679"
-       x="196.06104"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.81624126px;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999993, 2;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       xml:space="preserve"><tspan
-         id="tspan38"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:1.99999988"
-         y="176.17679"
-         x="196.06104"
-         sodipodi:role="line">https://webchat.freenode.net/</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.90464497px;line-height:12.32439327px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999984, 2;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        x="196.46799"
@@ -380,5 +382,27 @@
          id="path1206"
          style="stroke-width:2.23957229" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.81624126px;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.652;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999993, 2;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter935)"
+       x="196.06104"
+       y="176.17679"
+       id="text68"><tspan
+         sodipodi:role="line"
+         x="196.06104"
+         y="176.17679"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:1.99999988;"
+         id="tspan66">http://ubuntubudgie.org/irc</tspan></text>
+    <text
+       id="text40"
+       y="176.17679"
+       x="196.06104"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.81624126px;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999993, 2;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       xml:space="preserve"><tspan
+         id="tspan38"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:4.59968233px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:1.99999988"
+         y="176.17679"
+         x="196.06104"
+         sodipodi:role="line">http://ubuntubudgie.org/irc</tspan></text>
   </g>
 </svg>
