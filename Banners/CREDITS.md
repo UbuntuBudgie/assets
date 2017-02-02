@@ -4,6 +4,7 @@ Mockups
 Zesty Wallpaper Contest
 -----------------------
 - Ubuntu Budgie 17.04 Wallpaper Contest banner by [HEXcube][hexcube]. Background image derived from ['Working with Notebook'][zesty-background] licensed under [Creative Commons 0][CC-0]
+- Ubuntu Budgie 17.04 "Zesty" Alpha banner by  [Rania el-Amina][raniaamina]
 - IRC Channel banner by [Rania el-Amina][raniaamina]
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"

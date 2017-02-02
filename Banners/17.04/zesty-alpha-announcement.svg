@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 1366 768" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <title>Ubuntu Budgie 17.04 Alpha Announcement</title>
+  <defs>
+    <filter id="filter24088" x="-.2744" y="-.41757" width="1.5488" height="1.8351" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24092" x="-.61302" y="-.588" width="2.226" height="2.176" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24096" x="-.61302" y="-.65482" width="2.226" height="2.3096" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24100" x="-.38935" y="-.48834" width="1.7787" height="1.9767" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24104" x="-.49676" y="-.48834" width="1.9935" height="1.9767" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24108" x="-.31662" y="-.39468" width="1.6332" height="1.7894" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24112" x="-.32373" y="-.29103" width="1.6475" height="1.5821" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24116" x="-.3318" y="-.51613" width="1.6636" height="2.0323" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24.473566"/>
+    </filter>
+    <filter id="filter24152" x="-.54859" y="-.88764" width="2.0972" height="2.7753" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="53.500593"/>
+    </filter>
+    <clipPath id="clipPath24169">
+      <rect x="589.07" y="151.64" width="463.35" height="260.51" fill="#f29312" style="paint-order:normal"/>
+    </clipPath>
+    <radialGradient id="radialGradient31186" cx="-97.814" cy="150.09" r="167.11" gradientTransform="matrix(-4.6491 .099031 -.078054 -3.6645 808.92 679.44)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#924d8c" offset="0"/>
+      <stop stop-color="#77216f" offset="1"/>
+    </radialGradient>
+    <filter id="filter32470" color-interpolation-filters="sRGB">
+      <feTurbulence baseFrequency="5 5" result="turbulence" seed="124" type="fractalNoise"/>
+      <feComposite in="SourceGraphic" in2="turbulence" operator="in" result="composite1"/>
+      <feColorMatrix result="color" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5.28415 -1.9 "/>
+      <feFlood flood-color="rgb(169,105,206)" flood-opacity=".70196" result="flood"/>
+      <feMerge result="merge">
+        <feMergeNode in="flood"/>
+        <feMergeNode in="color"/>
+      </feMerge>
+      <feComposite in2="SourceGraphic" operator="in" result="fbSourceGraphic"/>
+      <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+      <feTurbulence baseFrequency="5 5" result="turbulence" seed="124" type="fractalNoise"/>
+      <feComposite in="fbSourceGraphic" in2="turbulence" operator="in" result="composite1"/>
+      <feColorMatrix result="color" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2.3388 -1.9 "/>
+      <feFlood flood-color="rgb(169,105,206)" flood-opacity=".70196" result="flood"/>
+      <feMerge result="merge">
+        <feMergeNode in="flood"/>
+        <feMergeNode in="color"/>
+      </feMerge>
+      <feComposite in2="fbSourceGraphic" operator="in" result="fbSourceGraphic"/>
+      <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+      <feTurbulence baseFrequency="5 5" result="turbulence" seed="360" type="fractalNoise"/>
+      <feComposite in="fbSourceGraphic" in2="turbulence" operator="in" result="composite1"/>
+      <feColorMatrix result="color" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5.01639 -0.68 "/>
+      <feFlood flood-color="rgb(108,36,111)" flood-opacity=".62353" result="flood"/>
+      <feMerge result="merge">
+        <feMergeNode in="flood"/>
+        <feMergeNode in="color"/>
+      </feMerge>
+      <feComposite in2="fbSourceGraphic" operator="in" result="fbSourceGraphic"/>
+      <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+      <feTurbulence baseFrequency="5 5" result="turbulence" seed="360" type="fractalNoise"/>
+      <feComposite in="fbSourceGraphic" in2="turbulence" operator="in" result="composite1"/>
+      <feColorMatrix result="color" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2.87432 -0.68 "/>
+      <feFlood flood-color="rgb(170,57,175)" flood-opacity=".62353" result="flood"/>
+      <feMerge result="merge">
+        <feMergeNode in="flood"/>
+        <feMergeNode in="color"/>
+      </feMerge>
+      <feComposite in2="fbSourceGraphic" operator="in" result="composite2"/>
+    </filter>
+  </defs>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Ubuntu Budgie 17.04 Alpha Announcement</dc:title>
+        <dc:description>Banner for Ubuntu Budgie 17.04 Alpha Announcement</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rania el-Amina</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>HEXcube</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <flowRoot transform="matrix(.99997 0 0 .99998 0 -354.52)" fill="#c62828" font-family="Ubuntu" font-size="17.5px" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26459" text-align="center" text-anchor="middle" style="line-height:200px;paint-order:normal" xml:space="preserve"><flowRegion><rect x="344.8" y="165.17" width="188.77" height="130.98" stroke-width=".26459"/></flowRegion><flowPara/></flowRoot>
+  <rect y=".00012925" width="1366" height="768" fill="#77216f" style="paint-order:normal"/>
+  <g transform="matrix(2.948 0 0 2.9481 -1736.6 -447.04)" clip-path="url(#clipPath24169)" stroke-width=".3392">
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="823.69" cy="250.11" rx="88.513" ry="56.901" fill="#6e3d62" filter="url(#filter24116)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="904.13" cy="363.25" rx="90.718" ry="100.91" fill="#77216f" filter="url(#filter24112)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="763.46" cy="314.33" rx="92.757" ry="74.409" fill="#5e2750" filter="url(#filter24108)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="831.75" cy="412.18" rx="59.12" ry="60.139" fill="#2c001e" filter="url(#filter24104)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="937.76" cy="236.86" rx="75.429" ry="60.139" fill="#aea79f" filter="url(#filter24100)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="728.8" cy="221.57" rx="47.907" ry="44.85" fill="#333" filter="url(#filter24096)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="863.35" cy="165.51" rx="47.907" ry="49.946" fill="#772953" filter="url(#filter24092)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,2.1319,-934.77,-332.7)" cx="840.93" cy="308.21" rx="107.03" ry="70.332" fill="#e05a2c" filter="url(#filter24088)" style="paint-order:normal"/>
+    <ellipse transform="matrix(2.1173,0,0,1.2305,-934.77,-12.642)" cx="836.66" cy="355.1" rx="117.03" ry="72.327" fill="#85377d" filter="url(#filter24152)" style="paint-order:normal"/>
+  </g>
+  <path d="m73.874 768h1292.1v-768h-800.11z" opacity=".586" style="paint-order:normal"/>
+  <path d="m102.77 768h1263.2v-768h-800.11z" fill="url(#radialGradient31186)" filter="url(#filter32470)" style="paint-order:normal"/>
+  <path d="m390.84 290.29-22.791 37.795h135.24c80.987 0 145.59 64.614 145.59 145.6 0 80.987-64.606 145.59-145.59 145.59h-310.83l-22.791 37.795h333.62c101.27 0 183.39-82.117 183.39-183.39s-82.117-183.39-183.39-183.39z" color="black" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="black" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:black;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m1046.7 234.42c-58.979 0-102.15 34.61-133.16 80.987-31.008 46.375-52.92 105.39-75.729 163.29-22.81 57.894-46.488 114.58-77.441 155.17s-66.798 65.155-120.83 65.155h-495.15l-22.791 37.795h517.94c66.205 0 115.41-33.515 150.88-80.035 35.474-46.518 59.599-105.98 82.551-164.24 22.951-58.254 44.76-115.39 71.995-156.13s56.84-64.199 101.74-64.199h319.31v-37.795z" color="black" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="black" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:black;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <text transform="scale(1)" x="1333.4731" y="548.87897" fill="#fcede8" font-family="Ubuntu" font-size="42.905px" font-weight="500" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:47.50353622px;paint-order:normal" xml:space="preserve"><tspan x="1333.4731" y="548.87897" text-align="end" style="line-height:47.50353622px">New Taste</tspan><tspan x="1333.4731" y="596.38257" text-align="end" style="line-height:47.50353622px">New Experience</tspan><tspan x="1333.4731" y="643.88617" text-align="end" style="line-height:47.50353622px"/></text>
+  <g id="ubuntu-budgie-logo" fill="#fff" stroke-width=".26459">
+    <path d="m908.13 690.21q-2.0914 0.52286-5.5554 1.1111-3.3986 0.58822-7.9082 0.58822-3.9214 0-6.6011-1.1111-2.6796-1.1764-4.3136-3.2679-1.6339-2.0914-2.3529-4.904-0.71893-2.8735-0.71893-6.3374v-19.084h6.0782v17.777q0 6.2089 1.9607 8.8886t6.6011 2.6796q0.98035 0 2.0261-0.0654t1.9607-0.13071q0.915-0.13072 1.6339-0.19608 0.78429-0.13071 1.1111-0.26143v-28.692h6.0782z"/>
+    <path d="m924.68 658.71q1.1111-0.71893 3.3332-1.5032 2.2875-0.78428 5.2286-0.78428 3.66 0 6.4704 1.3071 2.8757 1.3072 4.8364 3.66 1.9607 2.3529 2.9411 5.6207 1.0457 3.2679 1.0457 7.1893 0 4.1175-1.2418 7.4507-1.1764 3.2679-3.3986 5.5554t-5.3593 3.5293-7.0586 1.2418q-4.2482 0-7.5161-0.58822-3.2679-0.58821-5.3593-1.1764v-48.689l6.0782-1.0457v18.235zm0 27.189q0.915 0.26143 2.5489 0.52286 1.6993 0.19607 4.1829 0.19607 4.9018 0 7.8429-3.2025 2.9411-3.2679 2.9411-9.2154 0-2.6143-0.52286-4.9018-0.52285-2.2875-1.6993-3.9214-1.1764-1.6993-3.0718-2.6143-1.83-0.98036-4.4443-0.98036-2.4836 0-4.575 0.84965-2.0914 0.84964-3.2025 1.7646z"/>
+    <path d="m984.21 690.21q-2.0914 0.52286-5.5554 1.1111-3.3986 0.58822-7.9082 0.58822-3.9214 0-6.6011-1.1111-2.6796-1.1764-4.3136-3.2679-1.6339-2.0914-2.3529-4.9018-0.71894-2.8757-0.71894-6.3397v-19.084h6.0782v17.777q0 6.2089 1.9607 8.8886t6.6011 2.6796q0.98036 0 2.0261-0.0654 1.0457-0.0654 1.9607-0.13071 0.915-0.13072 1.6339-0.19608 0.78429-0.13071 1.1111-0.26143v-28.692h6.0782z"/>
+    <path d="m994.68 658.19q2.0914-0.52285 5.5554-1.1111 3.4639-0.58822 7.9736-0.58822 4.0521 0 6.7318 1.1764 2.6796 1.1111 4.2482 3.2025 1.634 2.0261 2.2875 4.9018 0.6536 2.8757 0.6536 6.3397v19.084h-6.0782v-17.777q0-3.1372-0.4575-5.3593-0.3922-2.2222-1.3725-3.5947-0.9804-1.3725-2.6143-1.9607-1.634-0.65358-4.0522-0.65358-0.9803 0-2.0261 0.0654-1.0457 0.0654-2.026 0.19607-0.915 0.0654-1.6993 0.19607-0.719 0.13072-1.0457 0.19608v28.692h-6.0783z"/>
+    <path d="m1037.9 657.21h12.875v5.0979h-12.875v15.686q0 2.5489 0.3921 4.2482 0.3922 1.6339 1.1765 2.6143 0.7842 0.915 1.9607 1.3072 1.1764 0.39214 2.745 0.39214 2.745 0 4.3789-0.58821 1.6993-0.65358 2.3529-0.91501l1.1764 5.0325q-0.915 0.4575-3.2025 1.1111-2.2875 0.71893-5.2286 0.71893-3.4639 0-5.7514-0.84964-2.2222-0.91501-3.5947-2.6796-1.3725-1.7646-1.9607-4.3136-0.5228-2.6143-0.5228-6.0129v-30.326l6.0782-1.0457z"/>
+    <path d="m1085.6 690.21q-2.0914 0.52286-5.5553 1.1111-3.3986 0.58822-7.9083 0.58822-3.9214 0-6.6011-1.1111-2.6796-1.1764-4.3135-3.2679-1.634-2.0914-2.3529-4.9018-0.7189-2.8757-0.7189-6.3397v-19.084h6.0782v17.777q0 6.2089 1.9607 8.8886t6.6011 2.6796q0.9804 0 2.0261-0.0654t1.9607-0.13071q0.915-0.13072 1.6339-0.19608 0.7843-0.13071 1.1111-0.26143v-28.692h6.0782z"/>
+    <path d="m1132.2 678.5q0 6.657-4.2504 9.6882-4.2504 3.0019-12.125 3.0019h-14.095v-43.253h12.814q7.938 0 11.438 2.2814 3.5316 2.2502 3.5316 7.563 0 4.3441-1.9377 6.6254-1.9064 2.2814-4.7814 3.1565 4.2815 0.59381 6.8445 3.1565 2.5627 2.5627 2.5627 7.782zm-8.6272-19.439q0-3.3128-2.0627-4.6566-2.0626-1.3751-7.3443-1.3751h-6.657v12.876h6.3757q5.188 0 7.4381-1.6564 2.2502-1.6564 2.2502-5.188zm2.6252 19.189q0-2.6877-1.0626-4.2191-1.0313-1.5626-3.219-2.2814-2.1876-0.71879-7.0631-0.71879h-7.3443v14.907h5.8754q5.5004 0 7.9695-0.7188 2.4689-0.75007 3.6566-2.4064 1.1876-1.6876 1.1876-4.5628z"/>
+    <path d="m1161.4 691.19v-4.8752q-2.5002 2.5002-5.5004 4.1878-3.0002 1.6564-5.8754 1.6564-3.2815 0-5.3439-1.2188-2.0314-1.2501-2.969-3.719-0.9064-2.5002-0.9064-6.9067v-21.908h5.3756v19.345q0 4.6877 0.4687 6.2504 0.5001 1.5626 1.5627 2.2814 1.0625 0.68755 3.094 0.68755 2.0314 0 4.7814-1.5626 2.7503-1.5939 5.3129-3.8128v-23.189h5.3755v32.784h-5.3755z"/>
+    <path d="m1198.1 691.19v-3.2502q-1.8438 1.7814-4.4378 3.0002t-5.5315 1.2188q-5.9065 0-9.1257-4.4378-3.219-4.4691-3.219-12.657 0-8.0317 3.5003-12.814 3.5003-4.7814 9.6882-4.7814 4.969 0 9.1257 3.6253v-16.439h5.4066v46.534h-5.4066zm0-25.408q-4.2815-3.5316-8.4383-3.5316-3.6565 0-6.0002 3.094-2.3127 3.0627-2.3127 9.5944 0 12.407 7.8132 12.407 2.5627 0 4.8752-1.2814 2.3439-1.2814 4.0628-2.9377v-17.345z"/>
+    <path d="m1240.3 690.48q0 6.5943-3.2816 9.8131-3.2502 3.2502-10.813 3.2502-7.2195 0-11.907-3.0627l2.0001-4.3441q4.2191 2.9378 9.9069 2.9378 4.5939 0 6.6254-1.9376 2.0627-1.9064 2.0627-6.3131v-3.844q-1.8439 1.7814-4.4067 3.0002-2.5557 1.217-5.5576 1.217-6.0318 0-9.1883-4.2816-3.1565-4.3129-3.1565-12.439 0-8.0006 3.5315-12.501 3.5316-4.5004 9.6572-4.5004 4.9689 0 9.1256 3.6253v-2.6877h5.4067v32.065zm-5.4044-24.692q-4.2816-3.5316-8.4383-3.5316-4.0941 0-6.2193 3.1878-2.0939 3.1878-2.0939 8.9071 0 6.3131 1.9689 9.1883 1.9689 2.844 5.8443 2.844 4.5003 0 8.9381-4.2191v-16.376z"/>
+    <path d="m1257.2 650.09q0 1.8752-0.8438 2.5627-0.8438 0.65632-2.6877 0.65632-1.9689 0-2.719-0.84383t-0.7501-2.3752q0-1.6564 0.8126-2.4065 0.8125-0.78131 2.6565-0.78131 1.9064 0 2.7189 0.75008 0.8126 0.71879 0.8126 2.4377zm-6.2202 41.097v-32.784h5.3755v32.784z"/>
+    <path d="m1270.9 675.44q0 6.5006 2.2189 9.2821 2.2189 2.7502 7.1257 2.7502 2.1877 0 3.8441-0.9063 1.6564-0.93758 3.1878-3.0002l4.4378 2.7502q-1.8752 2.8127-4.5628 4.3441-2.6878 1.5001-7.2817 1.5001-7.3133 0-10.939-4.2504-3.594-4.2503-3.594-12.845 0-9.0008 3.5002-13.282 3.5316-4.3129 10.626-4.3129 6.3757 0 9.5633 3.6878 3.1878 3.6565 3.1878 11.282v3.0002h-21.314zm16.064-4.2191q-0.062-4.4066-1.8752-6.8445-1.7814-2.4377-5.8127-2.4377-3.844 0-5.7816 2.2189-1.9064 2.1877-2.5315 7.0631h16.001z"/>
+    <path d="m1316.9 635.3a14.424 14.424 0 0 0 -14.424 14.424 14.424 14.424 0 0 0 14.424 14.424 14.424 14.424 0 0 0 14.424 -14.424 14.424 14.424 0 0 0 -14.424 -14.424zm3.8809 2.1701c0.4823-0.0113 0.8789 0.0475 1.3522 0.12589 1.7399 0.28586 3.5023 1.5571 4.575 3.4104 1.4424 2.5002 1.1179 5.5139-0.5273 7.2006-0.8294 0.84739-1.0773 0.89247-1.6182 1.2571 0.3696-0.5801 0.4823-0.80592 0.4823-1.2864 0-0.30199-0.099-0.54855-0.1533-0.68738-0.2073-0.53412-0.5814-0.75679-1.0141-1.0142-0.5364-0.31642-1.1494-0.41243-1.5416-0.41198-0.2974 4.5e-4 -0.4552 9e-4 -0.8519 0.10097-1.875 0.47463-3.9259-0.26323-4.913-1.977v2e-3c-1.1855-2.0486-0.4417-4.6918 1.6632-5.9056 0.6175-0.35784 1.3477-0.70144 2.0238-0.7782 0.1848-0.0212 0.3561-0.0323 0.5184-0.0361zm-11.16 4.8346c0.4507-0.0144 0.8969 0.0316 1.3251 0.14109 1.1494 0.29298 1.3117 0.48544 1.8977 0.77166-0.6852-0.0279-0.9376-0.0153-1.3523 0.22627-0.2614 0.1519-0.4282 0.35744-0.5228 0.47373-0.3561 0.44849-0.3651 0.8821-0.3696 1.3874 0 0.62067 0.2163 1.2026 0.4147 1.5388 0.1487 0.26098 0.2253 0.39485 0.5138 0.68783 1.3477 1.3878 1.7353 3.5306 0.7437 5.2439v-2e-3c-1.1809 2.0486-3.8448 2.727-5.9452 1.5113-0.6221-0.35788-1.2846-0.81629-1.6858-1.3635-0.4462-0.60264-0.6356-1.0646-0.8609-1.6668-0.622-1.647-0.4012-3.8115 0.6671-5.6649 1.1764-2.0315 3.2228-3.2223 5.1745-3.2846zm12.238 9.9014v2e-3c2.3663 0 4.2865 1.9652 4.282 4.3947 0 0.71577-0.063 1.5167-0.3381 2.141-0.2975 0.68738-0.604 1.08-1.0141 1.5776-1.1134 1.3612-3.0966 2.2537-5.2376 2.2537-2.8848 0-5.3368-1.7867-5.9723-4.0567-0.3201-1.1404-0.2344-1.3775-0.2795-2.0283 0.32 0.6085 0.4552 0.8199 0.8744 1.0588 0.2615 0.15055 0.5229 0.19157 0.6671 0.2141 0.568 0.0856 0.9466-0.1253 1.3883-0.37321 0.5409-0.30425 0.933-0.79015 1.1269-1.1268 0.1487-0.26143 0.2253-0.39575 0.338-0.78879 0.5274-1.8625 2.1906-3.2679 4.1694-3.2679z"/>
+  </g>
+  <text transform="scale(1)" x="1293.9015" y="731.05505" fill="white" font-family="'Open Sans'" font-size="29.553px" letter-spacing="7.0745px" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" text-align="end" text-anchor="end" style="line-height:128.34432983px;paint-order:normal" xml:space="preserve"><tspan x="1300.976" y="731.05505" fill="white" font-family="'Open Sans'" letter-spacing="7.0745px" stroke-width="2">Simplicity &amp; Elegance</tspan></text>
+</svg>
