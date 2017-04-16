@@ -19,7 +19,7 @@
   </rdf:RDF>
  </metadata>
  <text y="124" x="-10.5" font-size="145" font-family="Ubuntu">ubuntu</text>
- <text fill="#404552" font-size="142" y="124" x="478" font-family="Clear Sans">Budgie</text>
+ <text fill="#404552" y="124" x="478" font-family="Clear Sans" font-size="142" font-weight="bold">Budgie</text>
  <circle fill="#404552" cy="32" cx="968" r="32"/>
  <path id="budgie-shape" fill="#fff" d="m979 37.508c-4.39 0-8.08 3.118-9.25 7.25-0.247 0.872-0.417 1.17-0.75 1.75-0.43 0.747-1.3 1.825-2.5 2.5-0.977 0.55-1.818 1.017-3.076 0.827-0.327-0.05-0.907-0.14-1.488-0.474-0.925-0.53-1.23-1-1.937-2.35 0.1 1.444-0.088 1.97 0.622 4.5 1.413 5.036 6.845 9 13.25 9 4.748 0 9.148-1.98 11.624-5 0.905-1.104 1.587-1.975 2.25-3.5 0.603-1.385 0.75-3.162 0.75-4.75 0.002-5.39-4.252-9.75-9.5-9.75z"/>
  <use xlink:href="#budgie-shape" transform="rotate(120 968 32)" width="100%" height="100%"/>
