@@ -8,15 +8,17 @@ Banners
 17.04 *Zesty Zapus*
 -----------------
 - Ubuntu Budgie 17.04 Wallpaper Contest banner by [HEXcube][hexcube]. Background image derived from ['Working with Notebook'][zesty-alpha-background] licensed under [Creative Commons 0][CC-0]
-- Ubuntu Budgie 17.04 "Zesty" Alpha banner by [Rania el-Amina][raniaamina]
+- Ubuntu Budgie 17.04 "Zesty" Alpha & Beta 1 and final release banners by [Rania el-Amina][raniaamina]
+- Ubuntu Budgie 17.04 "Zesty" Beta 2 banner by [HEXcube][hexcube]
+- Ubuntu Budgie 17.04 "Zesty" Alternate banner by [Udara Madubhashana][udara]
 
 17.10 *Artful Aardvark*
 -----
-- Ubuntu Budgie 17.10 Wallpaper Contest banner by : [Udara Madubhashana][Udara-U3]. Background image derived from ['Taking Picture'][freepik]
+- Ubuntu Budgie 17.10 Wallpaper Contest banner by [Udara Madubhashana][udara]. Background image derived from ['Taking a Picture'][artful-background]
 
 Blog
 -----
-- Budgie Desktop v10.3 released banner by : [Udara Madubhashana][Udara-U3]
+- Budgie Desktop v10.3 release banner by [Udara Madubhashana][udara]
 
 Other
 -----
@@ -24,10 +26,10 @@ Other
 
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
-[Udara-U3]: https://github.com/Udara-U3 "Udara's GitHub Page"
+[udara]: https://github.com/Udara-U3 "Udara's GitHub Page"
 [raniaamina]: https://github.com/raniaamina "Rania's GitHub page"
 [xenial-point2-background]: https://www.pexels.com/photo/mockup-person-working-laptop-31279/ "Person with Notebook & Dog"
 [zesty-alpha-background]: https://www.pexels.com/photo/man-person-apple-iphone-164/ "Notebook background from Pexels"
-[freepik]: http://www.freepik.com/free-vector/taking-a-picture-illustration_829522.htm
+[artful-background]: http://www.freepik.com/free-vector/taking-a-picture-illustration_829522.htm "Artful background from Freepik"
 [CC-0]: https://creativecommons.org/publicdomain/zero/1.0/ "More info on CC 0"
 
