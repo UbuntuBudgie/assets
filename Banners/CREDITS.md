@@ -16,14 +16,23 @@ Banners
 -----
 - Ubuntu Budgie 17.10 Wallpaper Contest banner by [Udara Madubhashana][udara]. Background image derived from ['Taking a Picture'][artful-background]
 
+18.10 *Cosmic Cuttlefish*
+-----
+- Ubuntu Budgie 18.10 Wallpaper Contest banner by [Udara Madubhashana][udara]. 
+- Ubuntu Budgie 18.10 Beta 01 & Final Release banners by [Udara Madubhashana][udara]. 
+
+19.04 *Disco Dingo*
+-----
+- Ubuntu Budgie 19.04 Beta 01 & Final Release banners by [Udara Madubhashana][udara].
+
 Blog
 -----
 - Budgie Desktop v10.3 release banner by [Udara Madubhashana][udara]
+- Ubuntu Budgie Shop merchandises banner by [Udara Madubhashana][udara]
 
 Other
 -----
 - IRC Channel banner by [Rania el-Amina][raniaamina]
-
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
 [udara]: https://github.com/Udara-U3 "Udara's GitHub Page"
