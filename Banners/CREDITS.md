@@ -39,7 +39,7 @@ Other
 - IRC Channel banner by [Rania el-Amina][raniaamina]
 
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
-[udara]: https://github.com/Udara-U3 "Udara's GitHub Page"
+[udara]: https://github.com/uD4ra "Udara's GitHub Page"
 [raniaamina]: https://github.com/raniaamina "Rania's GitHub page"
 [xenial-point2-background]: https://www.pexels.com/photo/mockup-person-working-laptop-31279/ "Person with Notebook & Dog"
 [zesty-alpha-background]: https://www.pexels.com/photo/man-person-apple-iphone-164/ "Notebook background from Pexels"
