@@ -25,6 +25,10 @@ Banners
 -----
 - Ubuntu Budgie 19.04 Beta 01 & Final Release banners by [Udara Madubhashana][udara].
 
+21.04 *Hirsute Hippo*
+-----
+- Ubuntu Budgie 21.04 Final Release banners by [Udara Madubhashana][udara].
+
 Blog
 -----
 - Budgie Desktop v10.3 release banner by [Udara Madubhashana][udara]
