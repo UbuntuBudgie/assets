@@ -1,6 +1,6 @@
 budgie-remix Logos
 ==================
-budgie-remix logos designed by [HEXcube][hexcube] and [Joshua "Foggalong" Fogg][foggalong] are derived from [Yuri Henrique][yurihenriq]'s [Budgie logo][budgie-original]
+budgie-remix logos designed by [HEXcube][HEXcube] and [Joshua "Foggalong" Fogg][foggalong] are derived from [Yuri Henrique][yurihenriq]'s [Budgie logo][budgie-original]
 
 Budgie logos
 ------------
@@ -9,7 +9,7 @@ Budgie logos
 - `budgie-original.svg` - [budgie2.svg][budgie-original] by [Yuri Henrique][yurihenriq] licensed under [CC BY-SA 4.0][CC-BY-SA4]
 - `budgie-official.svg` - [Budgie's official logo][budgie-official] derived by [Ikey Doherty][ikeydoherty] from [Yuri Henrique][yurihenriq]'s Budgie logo
 - `budgie-symbolic.svg` - [view-grid-symbolic.svg.mono][budgie-symbolic] by [Yuri Henrique][yurihenriq]
-- `budgie-optimized.svg` - optimized by [HEXcube][hexcube] from [Yuri Henrique][yurihenriq]'s [budgie2.svg][budgie-original]
+- `budgie-optimized.svg` - optimized by [HEXcube][HEXcube] from [Yuri Henrique][yurihenriq]'s [budgie2.svg][budgie-original]
 - `budgie-reshaped.svg` - designed by [Alexandros "alpha" Felekidis][alpha], derived from [Yuri Henrique][yurihenriq]'s [budgie2.svg][budgie-original]
 
 Font
@@ -18,7 +18,7 @@ budgie-remix wordmark uses [Ubuntu Fonts][ubuntu-fonts] by © [Canonical Ltd.][c
 In addition to Ubuntu font, Ubuntu Budgie wordmark uses [Clear Sans][clear-fonts] by [Intel Open Source Technology Center][intel] licensed under [Apache 2.0 License][apache]
 
 
-[hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
+[HEXcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [foggalong]: https://github.com/Foggalong "Joshua Fogg's GitHub page"
 [yurihenriq]: https://yurihenriq.deviantart.com "Yuri Henrique's DeviantArt page"
 [ikeydoherty]: https://github.com/ikeydoherty "Ikey Doherty's DeviantArt page"
