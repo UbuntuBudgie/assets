@@ -12,4 +12,4 @@ The palette files `budgie-color-palette.gpl`, `budgie-color-palette.scss` and `b
 [arc-theme]: https://github.com/horst3180/arc-theme "Arc GTK theme's Github repo"
 [arc-color-config]: https://github.com/horst3180/arc-theme/blob/master/common/gtk-3.0/3.18/sass/_colors.scss "Arc Theme's SCSS file defining colors for GTK3.18"
 
-[GPL]: https://www.gnu.org/licenses/gpl-3.0.en.html "More info on GNU GPLv3"
+[GPL]: https://gnu.org/licenses/gpl-3.0.en.html "More info on GNU GPLv3"

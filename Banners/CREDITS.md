@@ -41,8 +41,8 @@ Other
 [HEXcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [udara]: https://github.com/uD4ra "Udara's GitHub Page"
 [raniaamina]: https://github.com/raniaamina "Rania's GitHub page"
-[xenial-point2-background]: https://www.pexels.com/photo/mockup-person-working-laptop-31279/ "Person with Notebook & Dog"
-[zesty-alpha-background]: https://www.pexels.com/photo/man-person-apple-iphone-164/ "Notebook background from Pexels"
+[xenial-point2-background]: https://pexels.com/photo/mockup-person-working-laptop-31279/ "Person with Notebook & Dog"
+[zesty-alpha-background]: https://pexels.com/photo/man-person-apple-iphone-164/ "Notebook background from Pexels"
 [artful-background]: https://freepik.com/free-vector/taking-a-picture-illustration_829522.htm "Artful background from Freepik"
 [CC-0]: https://creativecommons.org/publicdomain/zero/1.0/ "More info on CC 0"
 
